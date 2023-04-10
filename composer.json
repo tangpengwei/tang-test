@@ -1,0 +1,19 @@
+{
+    "name": "tang/test",
+    "description": "这是一个tang的测试包",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tang\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tangpengwei",
+            "email": "528584252@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
